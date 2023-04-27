@@ -231,7 +231,7 @@ c. Behavioral: Observer
         appBar: AppBar(
           backgroundColor: Color.fromRGBO(0, 31, 133, 1.0),
           title: const Text(
-            "RouteAppOne",
+            "RouteAppCourses",
             style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
           ),
         ),
