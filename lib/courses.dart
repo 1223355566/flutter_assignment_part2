@@ -229,7 +229,7 @@ c. Behavioral: Observer
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Color.fromRGBO(0, 31, 133, 1.0),
+          backgroundColor: Colors.purple,
           title: const Text(
             "RouteAppOne",
             style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
