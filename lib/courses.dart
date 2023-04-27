@@ -8,13 +8,11 @@ class Courses extends StatelessWidget {
   List<String> routeNames = [
     "ANDROID COURSE",
     "IOS COURSE",
-    " FullSTACK Course"
   ];
 
   List<String> coursesImages = [
     "assets/Android.jpeg",
     "assets/IOS.jpeg",
-    "assets/fullStack.jpeg"
   ];
   List<data> continteList = [
     data("Android Course", "assets/Android.jpeg", """ Part 1 ( Java SE)
@@ -192,37 +190,7 @@ a. Creational: Singleton.
 b. Structural: MVC, Decorator, Adapter, Facade.
 c. Behavioral: Observer
 • Creating final project depends on attendees needs"""),
-    data("FullStack", "assets/fullStack.jpeg", """ •HTML	
-•HTML 5 
-•CSS
-•CSS3
-•SASS
-•Bootstrap 4
-•JavaScript
-•Regular expressions
-•ECMAScript 6
-•JQuery
-•angular 7
-•fabric.js
-•AJAX
-•JSON
-•Hosting and domains
-•Freelancing tips and tricks
-•PHP
-•MYSQL
-•MYSQL advanced queries and triggers
-•OOP 
-•Design Patterns
-•MVC
-•laravel 
-•build Api , Api authentication
-•connect wordpress with laravel
-•build wordpress web service 
-•agile
-•Scrum
-•Software development process
 
-""")
   ];
 
   @override
